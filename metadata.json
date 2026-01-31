@@ -1,0 +1,9 @@
+{
+  "name": "Kisan Sathi",
+  "description": "A voice-first, AI-powered companion for farmers to manage crops, animals, machinery, and market prices with empathetic support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}

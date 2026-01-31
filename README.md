@@ -1,29 +1,20 @@
-# Kisan-Dost
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-Digital Farm Companion is A Voice First AI Assistant for farmers that helps you manage your Crops, Animals, Machinery, Finances, weather alert, government schemes and emotional Wellbeing- entirely through voice, no reading requires. The app acts as a trusted farm companion,guiding farmers step-by-step to make informed decisions and boost productivity. The goal is to reduce farmer stress, increase productivity and improve decision-making using AI and real time data.
+# Run and deploy your AI Studio app
 
-**Key Features-**
+This contains everything you need to run your app locally.
 
-**🏠 Home Screen Features**
-Each icon is large, simple, and speaks its function automatically when tapped:
+View your app in AI Studio: https://ai.studio/apps/drive/1FVVRtzT6kyShzLzlUpNqHNvV13XEyucs
 
-**🌱 Crop Diagnosis**
-Take a photo of crops to detect diseases, pests, or nutrient deficiencies and receive step-by-step voice treatment guidance.
+## Run Locally
 
-**🌦 Weather Advice**
-Get simple, voice-based weather forecasts and crop/animal-safe suggestions (rain, heat, frost alerts).
+**Prerequisites:**  Node.js
 
-**🏛 Government Schemes**
-Understand schemes like PM Kisan, subsidies, insurance, and pensions through clear voice explanations and reminders.
 
-**💳 Banking Safety**
-AI reads and explains bank SMS messages, detects fraud or scam alerts, and gives safe guidance in simple language.
-
-**📞 Expert Help**
-Book and connect with crop or veterinary experts through voice-based appointment scheduling.
-
-**🏪 Mandi Profit**
-Compare with last year’s rates, and get simple sell-or-wait advice.
-
-**🐄 Animals & Milk**
-Take a photo to check animal health, get calm voice-based care suggestions, track milk production, and sell milk at the best local price.
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
