@@ -31,5 +31,5 @@ Compare with last year’s rates, and get simple sell-or-wait advice.
 **🐄 Animals & Milk**
 Take a photo to check animal health, get calm voice-based care suggestions, track milk production, and sell milk at the best local price.
 
-**conclusion**
-it will empower farmers to make smarter descisions and build a sustainable future for agriculture
+**Conclusion**
+It will empower farmers to make smarter descisions and build a sustainable future for agriculture
